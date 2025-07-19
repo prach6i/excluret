@@ -1,2 +1,2 @@
-# excluret
-dataset and code for excluret
+# ExclMM
+dataset and code for ExclMM
